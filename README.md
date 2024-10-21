@@ -1,2 +1,2 @@
 # 2024VHDL
-review topics on FPGA based dev
+review topics on VHDL language coding
