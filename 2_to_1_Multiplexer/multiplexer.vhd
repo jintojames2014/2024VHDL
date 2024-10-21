@@ -8,6 +8,6 @@ END multiplexer; -- check for ;
 
 
 ARCHITECTURE Dataflow OF multiplexer IS 
-	BEGIN 
-		y <= ((NOT s) AND d0) OR (s AND d1);
-	END Dataflow;
+BEGIN 
+	y <= ((NOT s) AND d0) OR (s AND d1);
+END Dataflow;
