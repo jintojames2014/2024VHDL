@@ -1,0 +1,5 @@
+A new folder to have all the VHDL files for the 2 to 1 multiplexer using 'structural' description.
+
+---
+Initial entry: Visual Studio Code (MacOS)
+Sat Oct 26, 2024.
