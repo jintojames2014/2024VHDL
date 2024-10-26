@@ -7,3 +7,10 @@ ENTITY multiplexer IS PORT (
     s   : IN    STD_LOGIC;
     y   : OUT   STD_LOGIC);
 END multiplexer;
+
+ARCHITECTURE structural OF multiplexer IS
+BEGIN
+
+-- TO DO: (1)
+
+END Structural;
