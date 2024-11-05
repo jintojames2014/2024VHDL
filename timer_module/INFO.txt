@@ -1,0 +1,2 @@
+simple example/ exercise based on the data avilable in a VHDL tutorial, available online at:
+https://vhdlwhiz.com/create-timer/
